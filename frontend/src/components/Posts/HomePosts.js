@@ -39,7 +39,8 @@ export default function HomePost() {
               revivir el foro en miarroba,{' '}
               <span className="bold-text"> Delfino Rosales </span> creó el foro
               nuevamente y se empezó a darle actividad con el apoyo de{' '}
-              <span className="bold-text"> Rafael House</span> pero ya no funcionó de igual manera, Facebook dominó como
+              <span className="bold-text"> Rafael House</span> pero ya no funcionó 
+              de igual manera, Facebook dominó como
               red social por defecto y la comunidad PeriquitosMex no migró al
               foro. Al día de hoy{' '}
               <span className="bold-text">
