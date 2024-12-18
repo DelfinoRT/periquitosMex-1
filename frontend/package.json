@@ -21,7 +21,7 @@
     "react-smooth-scrollbar": "^8.0.6",
     "react-transition-group": "^4.4.2",
     "smooth-scrollbar": "^8.6.3",
-    "styled-components": "^5.3.0",
+    "styled-components": "^5.3.11",
     "swiper": "^6.8.1",
     "uuid": "^8.3.2",
     "web-vitals": "^1.1.2"
